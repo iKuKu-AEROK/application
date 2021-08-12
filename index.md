@@ -29,8 +29,7 @@ page_sections:
       <a href="https://play.google.com/store/apps/details?id=com.ikuku.app.callilang" target="_blank"><strong>[ 캘리랑 ]<span class="light"></span></strong><span
       class="light"></span></a>
     content:
-      사진에 글쓰기, 글귀를 작성하는 어플리케이션입니다.<br/>
-      내 사진에 글쓰기, 이쁜 사진에 글쓰기, 기본 배경에 글쓰기, 플릿 배경에 글쓰기를 제공합니다.
+      사진에 글쓰기, 글귀를 작성하는 어플리케이션입니다. 내 사진에 글쓰기, 이쁜 사진에 글쓰기, 기본 배경에 글쓰기, 플릿 배경에 글쓰기를 제공합니다.
     media:
       image: "/uploads/callilang.png"
       alt_text: 캘리랑
@@ -42,8 +41,7 @@ page_sections:
       <a href="https://play.google.com/store/apps/details?id=com.ikuku.aerok.stampcamera" target="_blank"><strong>[ 스탬프카메라 ]<span class="light"></span></strong><span
       class="light"></span></a>
     content:
-      시간과 날짜를 같이 찍어주는 카메라 어플리케이션입니다.<br/>
-      많은 종류의 예쁜 시간과 날짜 템플릿들을 자유롭게 사용하실 수 있습니다.
+      시간과 날짜를 같이 찍어주는 카메라 어플리케이션입니다. 많은 종류의 예쁜 시간과 날짜 템플릿들을 자유롭게 사용하실 수 있습니다.
     media:
       image: "/uploads/stampcamera.png"
       alt_text: 스탬프카메라
@@ -54,8 +52,7 @@ page_sections:
     headline:
       <a href="https://play.google.com/store/apps/details?id=com.ikuku.aerok.katke" target="_blank"><strong>[ 카특이 ]</strong><span class="light"></span></a>
     content:
-      카톡에 특수문자 이모티콘을 보내는 어플리케이션입니다.<br/>
-      이모티콘을 복사, 수정 등을 할 수 있습니다.
+      카톡에 특수문자 이모티콘을 보내는 어플리케이션입니다. 이모티콘을 복사, 수정 등을 할 수 있습니다.
     media:
       image: "/uploads/katke.png"
       alt_text: 카특이
@@ -67,8 +64,7 @@ page_sections:
       <a href="https://play.google.com/store/apps/details?id=com.ikuku.aerok.kaprofilesa" target="_blank"><strong>[ 테프사 ]<span class="light"></span></strong><span
       class="light"></span></a>
     content:
-      예쁜 SNS 테두리 프로필 사진을 만드는 어플리케이션입니다.<br/>
-      카카오톡, 인스타그램, 페이스북, 틱톡 등 대부분의 SNS 프로필 사진을 지원합니다.
+      예쁜 SNS 테두리 프로필 사진을 만드는 어플리케이션입니다. 카카오톡, 인스타그램, 페이스북, 틱톡 등 대부분의 SNS 프로필 사진을 지원합니다.
     media:
       image: "/uploads/tefsa.png"
       alt_text: 테프사
@@ -92,8 +88,7 @@ page_sections:
       <a href="https://play.google.com/store/apps/details?id=com.ikuku.aerok.nowup" target="_blank"><strong>[ 나우비트 ]<span class="light"></span></strong><span
       class="light"></span></a>
     content:
-      코인 현재 가격을 음성으로 반복 안내하는 어플리케이션입니다.<br/>
-      업비트, 빗썸의 시세를 음성으로 안내합니다.
+      코인 현재 가격을 음성으로 반복 안내하는 어플리케이션입니다. 업비트, 빗썸의 시세를 음성으로 안내합니다.
     media:
       image: "/uploads/nowup.png"
       alt_text: 나우비트
