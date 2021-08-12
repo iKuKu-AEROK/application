@@ -75,8 +75,7 @@ page_sections:
     headline:
       <a href="https://play.google.com/store/apps/details?id=com.ikuku.aerok.webtoonmaker" target="_blank"><strong>[ 실사웹툰만들기 ]</strong><span class="light"></span></a>
     content:
-      내 사진으로 웹툰을 만드는 어플리케이션입니다.<br/>
-      나만의 재치있는 웹툰을 만들 수 있습니다.
+      내 사진으로 웹툰을 만드는 어플리케이션입니다. 나만의 재치있는 웹툰을 만들 수 있습니다.
     media:
       image: "/uploads/webtoonmaker.png"
       alt_text: 실사웹툰만들기  
