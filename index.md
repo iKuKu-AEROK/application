@@ -32,7 +32,7 @@ page_sections:
       사진에 글쓰기, 글귀를 작성하는 어플리케이션입니다.<br/>
       내 사진에 글쓰기, 이쁜 사진에 글쓰기, 기본 배경에 글쓰기, 플릿 배경에 글쓰기를 제공합니다.
     media:
-      image: "/uploads/stampcamera.png"
+      image: "/uploads/callilang.png"
       alt_text: 캘리랑
   - template: content-feature
     block: feature-1
@@ -45,7 +45,7 @@ page_sections:
       시간과 날짜를 같이 찍어주는 카메라 어플리케이션입니다.<br/>
       많은 종류의 예쁜 시간과 날짜 템플릿들을 자유롭게 사용하실 수 있습니다.
     media:
-      image: "/uploads/callilang.png"
+      image: "/uploads/stampcamera.png"
       alt_text: 스탬프카메라
   - template: content-feature
     block: feature-1
